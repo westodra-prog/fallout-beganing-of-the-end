@@ -6,7 +6,8 @@
         "device": "*",
         "darts": "*",
         "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.3.1",
-        "storyboard": "*"
+        "storyboard": "*",
+        "color-coded-tilemap": "*"
     },
     "files": [
         "main.blocks",
@@ -25,5 +26,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
